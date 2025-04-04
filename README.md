@@ -42,7 +42,7 @@ npm run dev
 yarn dev
 ```
 
-4. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+4. Abre [http://localhost:3001](http://localhost:3001) en tu navegador.
 
 ### Instalación con Docker
 1. Construye la imagen:
